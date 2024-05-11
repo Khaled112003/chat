@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615969496854",
+    "project_id": "chaat-appp-fb096",
+    "storage_bucket": "chaat-appp-fb096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615969496854:android:98d871417dae96b02f7a37",
+        "android_client_info": {
+          "package_name": "com.example.chaaaaat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxuNfWCfl4qgZbtXTimanIZVl6Mz2SfBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
